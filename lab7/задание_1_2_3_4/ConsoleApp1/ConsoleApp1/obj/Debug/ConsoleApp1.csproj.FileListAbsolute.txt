@@ -1,0 +1,50 @@
+D:\Учеба\Системы моб связи\Отчеты\Лаба 7\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+D:\Учеба\Системы моб связи\Отчеты\Лаба 7\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+D:\Учеба\Системы моб связи\Отчеты\Лаба 7\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+D:\Учеба\Системы моб связи\Отчеты\Лаба 7\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+D:\Учеба\Системы моб связи\Отчеты\Лаба 7\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\Учеба\Системы моб связи\Отчеты\Лаба 7\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+D:\Учеба\Системы моб связи\Отчеты\Лаба 7\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+E:\Уник\2-2\системы мобильной связи\лабы по этой штуке\лаб7\Лаба 7\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+E:\Уник\2-2\системы мобильной связи\лабы по этой штуке\лаб7\Лаба 7\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+E:\Уник\2-2\системы мобильной связи\лабы по этой штуке\лаб7\Лаба 7\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+E:\Уник\2-2\системы мобильной связи\лабы по этой штуке\лаб7\Лаба 7\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+E:\Уник\2-2\системы мобильной связи\лабы по этой штуке\лаб7\Лаба 7\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+E:\Уник\2-2\системы мобильной связи\лабы по этой штуке\лаб7\Лаба 7\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+E:\Уник\2-2\системы мобильной связи\лабы по этой штуке\лаб7\Лаба 7\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+D:\БГТУ\Сети\лаб7\Лаба 7\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+D:\БГТУ\Сети\лаб7\Лаба 7\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+D:\БГТУ\Сети\лаб7\Лаба 7\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+D:\БГТУ\Сети\лаб7\Лаба 7\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+D:\БГТУ\Сети\лаб7\Лаба 7\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\БГТУ\Сети\лаб7\Лаба 7\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+D:\БГТУ\Сети\лаб7\Лаба 7\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+D:\учеба\4 сем\смс\lab7\Лаба 7\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+D:\учеба\4 сем\смс\lab7\Лаба 7\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+D:\учеба\4 сем\смс\lab7\Лаба 7\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+D:\учеба\4 сем\смс\lab7\Лаба 7\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+D:\учеба\4 сем\смс\lab7\Лаба 7\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\учеба\4 сем\смс\lab7\Лаба 7\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+D:\учеба\4 сем\смс\lab7\Лаба 7\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+D:\СМС\лаб 7\lab7\Лаба 7\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+D:\СМС\лаб 7\lab7\Лаба 7\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+D:\СМС\лаб 7\lab7\Лаба 7\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+D:\СМС\лаб 7\lab7\Лаба 7\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+D:\СМС\лаб 7\lab7\Лаба 7\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\СМС\лаб 7\lab7\Лаба 7\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+D:\СМС\лаб 7\lab7\Лаба 7\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+D:\СМС\лабы\lab7\задание_1_2_3_4\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+D:\СМС\лабы\lab7\задание_1_2_3_4\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+D:\СМС\лабы\lab7\задание_1_2_3_4\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+D:\СМС\лабы\lab7\задание_1_2_3_4\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+D:\СМС\лабы\lab7\задание_1_2_3_4\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\СМС\лабы\lab7\задание_1_2_3_4\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+D:\СМС\лабы\lab7\задание_1_2_3_4\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\Users\Admin\Desktop\смс\lab7\задание_1_2_3_4\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\Admin\Desktop\смс\lab7\задание_1_2_3_4\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\Admin\Desktop\смс\lab7\задание_1_2_3_4\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\Admin\Desktop\смс\lab7\задание_1_2_3_4\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\смс\lab7\задание_1_2_3_4\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Desktop\смс\lab7\задание_1_2_3_4\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\смс\lab7\задание_1_2_3_4\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\Admin\Desktop\смс\lab7\задание_1_2_3_4\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
